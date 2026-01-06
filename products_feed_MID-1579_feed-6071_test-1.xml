@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-01-06 12:20">
+  <shop>
+    <name>Gou (Гоу)</name>
+    <company>Gou (Гоу)</company>
+    <url>https://gou.com.ua/</url>
+    <currencies>
+      <currency id="USD" rate="43"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="147182601">Новогодний декор</category>
+      <category id="98354548">Электроинструменты</category>
+    </categories>
+
+ <offers>
+   <offer id="1164838889" available="true">
+    <url>https://gou.com.ua/p1164838889-rascheska-elektricheskaya-dlya.html</url>
+    <oldprice>44.2</oldprice>
+    <price>20</price>
+    <currencyId>USD</currencyId>
+
+    <categoryId>98354548</categoryId>
+    <picture>https://images.prom.ua/2334273189_rascheska-elektricheskaya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/2334273191_rascheska-elektricheskaya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/2334273192_rascheska-elektricheskaya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/2334273193_rascheska-elektricheskaya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/2334273194_rascheska-elektricheskaya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/2334273195_rascheska-elektricheskaya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/2334273196_rascheska-elektricheskaya-dlya.jpg</picture>
+    <picture>https://images.prom.ua/2334273197_rascheska-elektricheskaya-dlya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Расческа электрическая для удаления вшей блох гнид V-Comb гребень для вычесывания с вытяжкой</name>
+    <vendor>No brand</vendor>
+    <vendorCode>10002</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Расческа электрическая для удаления вшей блох гнид V-Comb гребень для вычесывания с вытяжкой </description>
+    <param name="Материал расчески">Железо</param>
+    <param name="Тип зубьев расчески">Частые</param>
+    <param name="Назначение расчески">Расчесывание</param>
+    </offer>
+  </offers>
+</shop>
+</yml_catalog>
