@@ -36,10 +36,12 @@
     <pickup>true</pickup>
     <delivery>true</delivery>
     <name>Расческа электрическая для удаления вшей блох гнид V-Comb гребень для вычесывания с вытяжкой</name>
+    <name>_uaРасческа электрическая для удаления вшей блох гнид V-Comb гребень для вычесывания с вытяжкой</name_ua>
     <vendor>No brand</vendor>
     <vendorCode>10002</vendorCode>
     <country_of_origin>Китай</country_of_origin>
     <description>Расческа электрическая для удаления вшей блох гнид V-Comb гребень для вычесывания с вытяжкой </description>
+    <description>_uaРасческа электрическая для удаления вшей блох гнид V-Comb гребень для вычесывания с вытяжкой </description_ua>
     <param name="Материал расчески">Железо</param>
     <param name="Тип зубьев расчески">Частые</param>
     <param name="Назначение расчески">Расчесывание</param>
