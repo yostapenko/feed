@@ -3,7 +3,6 @@
     <name>Test</name>
     <company>Test company</company>
     <url>https://test.com.ua/</url>
-    <!--  нема currencies -->>
     <categories>
       <category id="104859252" parentId="104859207">Планшеты</category>
     </categories>
