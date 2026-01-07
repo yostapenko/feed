@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<price>
+    <date>2023-10-04 17:00</date>
+    <firmName>Shop.ua</firmName>
+    <firmId>31234</firmId>
+    <!--Курс долара - rate -->
+    <rate>43</rate>
+    <delivery id="1" type="address" carrier="slf" cost="60" freeFrom="1000" city="Київ" />
+    <delivery id="2" type="warehouse" cost="35" carrier="UP" />
+    <delivery id="3" type="warehouse" cost="null" carrier="NP" />
+    <delivery id="4" type="pickup" cost="0" />
+    <shipping workdays="16:00" sunday="14:00" saturday="18:00">0</shipping>
+    <store id="1" name="Салон на Подолі" address="Київ, вул. Хорива, 10" workdays_from="9:00" workdays_to="21:00" sat_from="10:00" sat_to="18:00" sun_from="10:00" sun_to="18:00"  tel="+380931234567"></store>
+    <store id="2" name="Смарт-Плаза" address="Київ, пр. Перемоги, 24" workdays_from="10:00" workdays_to="20:00" sat_from="11:00" sat_to="18:00" sun_from="11:00" sun_to="18:00"></store>
+    <categories>
+        <category>
+            <id>1</id>
+            <name>Комп'ютери, мережі</name>
+        </category>
+        <category>
+            <id>2</id>
+            <parentId>1</parentId>
+            <name>Планшети</name>
+        </category>
+
+    </categories>
+    <items>
+        <item>
+            <id>3278</id>
+            <categoryId>2</categoryId>
+            <code>MRJP2</code>
+            <barcode>0190198233301</barcode>
+            <vendor>Apple</vendor>
+            <name>iPad 2018 128GB Wi-Fi Gold</name>
+            <description>ціна вказана тільки в доларах (без ціни в гривні)</description>
+            <url>http://shop.ua/1/2/123.html</url>
+            <image>http://shop.ua/img/1/2/123.jpg</image>
+
+            <priceRUSD>100</priceRUSD>      <!--Ціна на товар вказана тільки в доларах - формат HOTLINE XML це допускає-->
+
+            <stock>Під замовлення</stock>
+            <delivery id="1" cost="70" freeFrom="5000" />
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <shipping>1</shipping>
+            <custom>1</custom>
+        </item>
+    </items>
+</price>
