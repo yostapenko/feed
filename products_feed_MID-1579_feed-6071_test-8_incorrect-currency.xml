@@ -4,7 +4,7 @@
     <company>Test company</company>
     <url>https://test.com.ua/</url>
     <currencies>
-      <currency id="USD" rate="kjhgfdgjyy43"/>
+      <currency id="USD" rate="43kjhgfdgjyy"/>
       <currency id="UAH" rate="1"/>
       <currency id="BYN" rate="CB"/>
       <currency id="KZT" rate="CB"/>
