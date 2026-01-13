@@ -1,0 +1,31 @@
+﻿<yml_catalog date="2022-11-18 15:00">
+  <shop>
+    <name>Test</name>
+    <company>Test company</company>
+    <url>https://test.com.ua/</url>
+    <categories>
+      <category id="104859252" parentId="104859207">Планшеты</category>
+    </categories>
+    <offers>
+      <offer id="1506216864" available="true" group_id="374150249">
+        <url>https://test.ua/p1506ytuyytu-remeshok-apple-watch.html</url>
+        <salePrice>77</salePrice>
+        <price>100</price>
+        <currencyId>USD</currencyId>
+        <categoryId>104859252</categoryId>
+        <picture>https://test.ua/4060114143_remeshok-apple-watch.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Планшет NoName 7</name>
+        <name_ua>Планшет NoName 7</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание Планшет NoName </description>
+        <description_ua>Опис Планшет NoName  </description_ua>
+        <param name="Цвет">Разные цвета</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
