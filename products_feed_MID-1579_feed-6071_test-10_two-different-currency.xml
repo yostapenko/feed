@@ -14,17 +14,17 @@
       <category id="104859252" parentId="104859207">Планшеты</category>
     </categories>
     <offers>
-      <offer id="1506216864" available="true" group_id="374150249">
+      <offer id="150621686111" available="true" group_id="374150249">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
-        <salePrice>1600</salePrice>
+        <salePrice>1999</salePrice>
         <price>2000</price>
         <currencyId>USD</currencyId>
         <categoryId>104859252</categoryId>
         <picture>https://test.ua/4060114143_remeshok-apple-watch.jpg</picture>
         <pickup>false</pickup>
         <delivery>true</delivery>
-        <name>Планшет NoName 6</name>
-        <name_ua>Планшет NoName 6</name_ua>
+        <name>Планшет NoName 10</name>
+        <name_ua>Планшет NoName 10</name_ua>
         <vendor>Solis</vendor>
         <vendorCode>1506216864</vendorCode>
         <country_of_origin>Китай</country_of_origin>
@@ -33,7 +33,7 @@
         <param name="Цвет">Разные цвета</param>
         <param name="Состояние">Новое</param>
       </offer>
-       <offer id="1506216865" available="true" group_id="374150249">
+       <offer id="150621686222" available="true" group_id="374150249">
         <url>https://test.ua/p15062888864-remeshok-apple-watch.html</url>
         <salePrice>799</salePrice>
         <price>888</price>
@@ -42,8 +42,8 @@
         <picture>https://test.ua/4060114143_remeshok-apple-watch.jpg</picture>
         <pickup>false</pickup>
         <delivery>true</delivery>
-        <name>Планшет NoName 8</name>
-        <name_ua>Планшет NoName 8</name_ua>
+        <name>Планшет NoName 11</name>
+        <name_ua>Планшет NoName 11</name_ua>
         <vendor>Solis</vendor>
         <vendorCode>1506216864</vendorCode>
         <country_of_origin>Китай</country_of_origin>
