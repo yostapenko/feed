@@ -1,0 +1,57 @@
+<yml_catalog date="2022-11-18 15:00">
+  <shop>
+    <name>Test</name>
+    <company>Test company</company>
+    <url>https://test.com.ua/</url>
+    <currencies>
+      <currency id="USD" rate="42"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="104859252" parentId="104859207">Планшеты</category>
+    </categories>
+    <offers>
+      <offer id="1506216864" available="true" group_id="374150249">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>1600</salePrice>
+        <price>2000</price>
+        <currencyId>USD</currencyId>
+        <categoryId>104859252</categoryId>
+        <picture>https://test.ua/4060114143_remeshok-apple-watch.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Планшет NoName 6</name>
+        <name_ua>Планшет NoName 6</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>ціна в валюті, але некореректне currency </description>
+        <description_ua>Опис Планшет NoName  </description_ua>
+        <param name="Цвет">Разные цвета</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+       <offer id="1506216865" available="true" group_id="374150249">
+        <url>https://test.ua/p15062888864-remeshok-apple-watch.html</url>
+        <salePrice>799</salePrice>
+        <price>888</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>104859252</categoryId>
+        <picture>https://test.ua/4060114143_remeshok-apple-watch.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Планшет NoName 8</name>
+        <name_ua>Планшет NoName 8</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>ціна в валюті, але некореректне currency </description>
+        <description_ua>Опис Планшет NoName  </description_ua>
+        <param name="Цвет">Разные цвета</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
